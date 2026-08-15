@@ -1,119 +1,104 @@
-<!-- BANNER PRINCIPAL -->
+<!-- HEADER -->
+
+<h1 align="center">
+  D4RL1NG0
+</h1>
 
 <p align="center">
-  <img src="banner.png" width="80%" />
-</p>
-
-<!-- BARRA RAINBOW ESCURA -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:1a0f1f,100:0b0b10&height=3"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=3b0a10&center=true&vCenter=true&width=600&lines=D4RL1NG0&duration=120&pause=1800"/>
+  <b>Backend Developer | C# | .NET | ASP.NET Core</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=3b0a10&center=true&vCenter=true&width=600&lines=Nós+somos+o+começo+e+o+fim+de+nossa+própria+história."/>
+  "Nós somos o começo e o fim de nossa própria história."
 </p>
-
-<!-- BARRA RAINBOW ESCURA -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:1a0f1f,100:0b0b10&height=3"/>
-</p>
-
-<details>
-<summary>Sobre mim</summary>
 
 <br>
 
 <p align="center">
-  <img src="banner2.gif" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b10,50:3b0a10,100:0b0b10&height=120&section=header"/>
 </p>
 
-<br>
 
-<p style="color:#c7c7c7">
-Desenvolvedor back-end focado em C# e .NET, construindo APIs e trabalhando com regras de negócio, validações e persistência de dados.
+<!-- ABOUT -->
+
+<h2>👋 Sobre mim</h2>
+
+<p>
+Sou desenvolvedor back-end focado em C# e .NET, criando APIs REST,
+trabalhando com regras de negócio, persistência de dados e boas práticas
+de desenvolvimento.
 </p>
 
-<br>
+<p>
+Atualmente estou evoluindo em arquitetura de software, testes automatizados
+e construção de aplicações mais organizadas e escaláveis.
+</p>
 
-* Foco em desenvolvimento back-end com C# e ASP.NET Core
-* Interesse em regras de negócio e consistência de dados
-* Buscando oportunidade como desenvolvedor (estágio/júnior)
-* Evolução contínua em boas práticas de APIs
 
-</details>
+<!-- STACK -->
 
-<!-- BARRA RAINBOW -->
+<h2>Tech Stack</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:1a0f1f,100:0b0b10&height=3"/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,git,linux" />
+
 </p>
-
-<details>
-<summary>Tecnologias</summary>
-
-<br>
-
-**Linguagem principal**
-
-* C#
-
-**Plataforma**
-
-* .NET / ASP.NET Core (Web API)
-
-**Persistência de dados**
-
-* Entity Framework Core
-
-**Ferramentas**
-
-* Git & GitHub
-* Linux
-
-</details>
-
-<!-- BARRA RAINBOW -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:1a0f1f,100:0b0b10&height=3"/>
+C# • .NET • ASP.NET Core • Entity Framework Core • PostgreSQL • Docker • Git
 </p>
 
-<details>
-<summary>Projetos</summary>
 
-<br>
+<!-- PROJECTS -->
 
-### Finance API
+<h2>Projetos em destaque</h2>
 
-API de gerenciamento financeiro com foco em consistência de dados e regras de negócio.
 
-* Validação de saldo
-* Controle de transações
-* Operações completas (CRUD)
-* Estrutura organizada em camadas
+<h3>Finance API</h3>
+
+API de gerenciamento financeiro construída com ASP.NET Core.
+
+Principais características:
+
+- Controle de transações financeiras
+- Regras de negócio para validação de saldo
+- Persistência utilizando Entity Framework Core
+- Organização em camadas
 
 🔗 https://github.com/D4RL1NG0/finance-manager-cs
 
-</details>
 
-<!-- BARRA FINAL -->
+<!-- CURRENT LEARNING -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:1a0f1f,100:0b0b10&height=3"/>
+<h2>Atualmente estudando</h2>
+
+- Arquitetura de APIs
+- Clean Architecture
+- Testes automatizados
+- Design Patterns
+- Boas práticas com .NET
+
+
+<!-- CONTACT -->
+
+<h2>📫 Contato</h2>
+
+<p>
+LinkedIn:
+<a href="https://www.linkedin.com/in/ivo-bernardo-moraes-00a23a3b6">
+LinkedIn
+</a>
 </p>
 
-<details>
-<summary>Contato</summary>
+<p>
+Email:
+<a href="mailto:D4RL1NG0@protonmail.com">
+D4RL1NG0@protonmail.com
+</a>
+</p>
 
-<br>
 
-* LinkedIn: https://www.linkedin.com/in/ivo-bernardo-moraes-00a23a3b6
-* Email: [D4RL1NG0@protonmail.com](mailto:D4RL1NG0@protonmail.com)
-
-</details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b10,50:3b0a10,100:0b0b10&height=100&section=footer"/>
+</p>
